@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Rose Ho is a multidisplinary designer based in Washington DC who is passionate about storytelling, accessible and inclusive design, and creating cohesive experiences that drive impact.
 
 
-url: "https://www.roseho.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.roseho.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  roseho1321
 
