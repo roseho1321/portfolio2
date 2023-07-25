@@ -127,7 +127,8 @@
 
 html { font-size: 100%; }
 
-body { margin: 0 auto; padding: 0; color: #111111; background-color: #FFFFFF; -webkit-font-smoothing: antialiased; }
+body { margin: 0 auto; padding: 0; color: #111111; background-image: linear-gradient(#ffffff, #ffffff); 
+   background-color: #000000; -webkit-font-smoothing: antialiased; }
 
 @media (prefers-color-scheme: dark) { body { color: #E5E5E5; background-color: #111111; } }
 
@@ -536,8 +537,4 @@ figure figcaption a { color: #757575; }
     }
  }
 
-body { 
-   background-image: linear-gradient(#ffffff, #ffffff); 
-   background-color: #000000;
-}
 /*# sourceMappingURL=main.css.map */
