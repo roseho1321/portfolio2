@@ -536,7 +536,8 @@ figure figcaption a { color: #757575; }
     }
  }
 
-:root {
-  color-scheme: only light;
+body { 
+   background-image: linear-gradient(#ffffff, #ffffff); 
+   background-color: #000000;
 }
 /*# sourceMappingURL=main.css.map */
