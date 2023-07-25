@@ -535,5 +535,8 @@ figure figcaption a { color: #757575; }
      padding-left: 1rem; padding-right: 1rem;
     }
  }
- 
+
+:root {
+  color-scheme: only light;
+}
 /*# sourceMappingURL=main.css.map */
